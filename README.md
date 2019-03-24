@@ -1,4 +1,4 @@
-# [Starter] Udemy Project Vue Activity (Project 2)
+#  Project Vue Activity
 
 ## Project setup
 ```
